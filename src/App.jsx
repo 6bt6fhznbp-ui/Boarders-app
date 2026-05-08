@@ -2,7 +2,7 @@ import AdminPage from "./components/admin/AdminPage";
 
 import DisplayScreen from "./components/game/DisplayScreen";
 
-import { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect, useRef } from "react";
 
 // ─── CONSTANTS ────────────────────────────────────────────────────────────────
 // ─── INITIAL DATA ─────────────────────────────────────────────────────────────
